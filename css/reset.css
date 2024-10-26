@@ -30,6 +30,7 @@ textarea {
   border: none;
   outline: none;
   padding: 0;
+  cursor: pointer;
 }
 
 a {

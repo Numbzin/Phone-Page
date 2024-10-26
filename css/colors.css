@@ -1,0 +1,43 @@
+.bg-night {
+    background-color: var(--night);
+}
+
+.night {
+    color: var(--night);
+}
+
+.text-color {
+    color: var(--white);
+}
+
+.bg-violet-deep {
+    background-color: var(--violet-deep);
+}
+
+.violet-deep {
+    color: var(--violet-deep);
+}
+
+.bg-violet-mid {
+    background-color: var(--violet-mid);
+}
+
+.violet-mid {
+    color: var(--violet-mid);
+}
+
+.bg-violet-light {
+    background-color: var(--violet-light);
+}
+
+.violet-light {
+    color: var(--violet-light);
+}
+
+.bg-white {
+    background-color: var(--white);
+}
+
+.font {
+    font-family: var(--font);
+}

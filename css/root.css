@@ -1,23 +1,8 @@
 :root {
-    --bg-black: #000;
-    --text-color: #fff;
-    --bg-white: #fff;
-    --font: 'Anek Devanagari', sans-serif;
-    --bg-gray: #ccc;
-}
-
-.bg-black {
-    background-color: var(--bg-black);
-}
-
-.text-color {
-    color: var(--text-color);
-}
-
-.bg-white {
-    background-color: var(--bg-white);
-}
-
-.font {
-    font-family: var(--font);
-}
+    --font: "Anek Devanagari", sans-serif;
+    --night: #0c0910;
+    --violet-deep: #453750;
+    --violet-mid: #73648A;
+    --violet-light: #9882AC;
+    --white: #fff;
+  }
