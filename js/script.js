@@ -11,16 +11,16 @@ dots.forEach((dot, index) => {
 
 const Phones = [
   {
-    imgSrc: "./images/phone1.webp",
+    imgSrc: "../images/phone1.webp",
   },
   {
-    imgSrc: "./images/phone2.webp",
+    imgSrc: "../images/phone2.webp",
   },
   {
-    imgSrc: "./images/phone3.webp",
+    imgSrc: "../images/phone3.webp",
   },
   {
-    imgSrc: "./images/phone4.webp",
+    imgSrc: "../images/phone4.webp",
   },
 ];
 
